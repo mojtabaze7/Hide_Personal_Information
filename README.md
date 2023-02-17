@@ -1,7 +1,7 @@
 # Hide Personal Information
 
 ## Introduction
-In this project personal information such as name, national code, address and so on is hidden in the sentence.
+In this project personal information such as name, national code, address and so on is hidden in a sentence.
 
 ## Running
 To run this project there is a notebook that installs the required packages and then run the main class. You can use main.ipynb file to run the project.
